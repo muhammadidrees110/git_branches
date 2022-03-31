@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 master
+=======
+text23
+>>>>>>> parent of 0d62c0d (ys)
